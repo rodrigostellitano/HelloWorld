@@ -1,2 +1,2 @@
-# HelloWorld
- Teste Git
+# Hello World !
+ Teste Git de repositório!
